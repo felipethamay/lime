@@ -1,0 +1,10 @@
+HELP.md
+
+/.ipynb_checkpoints
+
+/__pycache__
+
+*.csv
+
+### VS Code ###
+.vscode/
